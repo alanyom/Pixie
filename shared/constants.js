@@ -6,5 +6,5 @@ export const PIXIE_CONFIG = {
     PKR: { name: "Pakistan Rupee", symbol: "Rs" },
     BDT: { name: "Bangladesh Taka", symbol: "৳" },
     INR: { name: "Indian Rupee", symbol: "₹" }
-  }
+  } 
 };
