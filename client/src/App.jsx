@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { createClient } from '@supabase/supabase-js'; 
 import Landing from './pages/Landing';
-import Dashboard from './pages/Dashboard';
+import Dashboard from './pages/Dashboard'; 
 import Contractors from './pages/Contractors'; 
 import TaxCenter from './pages/TaxCenter';   
 import './App.css'; 
