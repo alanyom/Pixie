@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { createClient } from '@supabase/supabase-js';
+import { createClient } from '@supabase/supabase-js'; 
 import Landing from './pages/Landing';
 import Dashboard from './pages/Dashboard';
 import Contractors from './pages/Contractors'; 
