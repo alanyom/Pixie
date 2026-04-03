@@ -4,7 +4,7 @@ import Landing from './pages/Landing';
 import Dashboard from './pages/Dashboard'; 
 import Contractors from './pages/Contractors'; 
 import TaxCenter from './pages/TaxCenter';   
-import './App.css'; 
+import './App.css';  
 
 const supabaseUrl = import.meta.env.VITE_SUPABASE_URL;
 const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY;
