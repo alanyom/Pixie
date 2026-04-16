@@ -8,7 +8,7 @@ const PORT = process.env.PORT || 5001;
 app.use(cors());
 app.use(express.json()); 
  
-// --- MOCK ROUTING ENGINE ---
+// --- MOCK ROUTING ENGINE --- 
 // This is where your 'Phase 1: US -> Pakistan' logic lives
 app.get('/api/quote', (req, res) => {
   const amount = parseFloat(req.query.amount) || 1000;
